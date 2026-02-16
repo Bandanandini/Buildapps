@@ -14,3 +14,4 @@ if (currentHour < 12) {
 
 greeting.textContent = greetingText;
 message.textContent = 'Welcome! Have a wonderful day.';
+
